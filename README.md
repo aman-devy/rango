@@ -1,2 +1,2 @@
-# python-Django project
+# Python-Django project
 Rango App
